@@ -1,0 +1,6 @@
+@SimpleWeb.Api_HostAddress = http://localhost:5286
+
+GET {{SimpleWeb.Api_HostAddress}}/dojob/
+Accept: application/json
+
+###
